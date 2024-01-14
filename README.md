@@ -1,5 +1,5 @@
 # Tasky
-This project involves admin assigning tasks to users. Once they complete the tasks, they earn money in cents. and this project is made in laravel framework
+This project involves admin assigning tasks to users. Once they complete the tasks, they earn money in cents. and this project is made in laravel framework and frontend is design, designed by # [Soft UI Dashboard Laravel](https://www.creative-tim.com/product/paper-dashboard)
 
 ## Installation
 * First Download the project and open folder aurora in your favourite ide like vs-code
