@@ -9,4 +9,4 @@ This project involves admin assigning tasks to users. Once they complete the tas
 * Then type this command "php artisan storage:link"
 * Now type final command "php artisan serve"
 * Now open the browser and type this url "http://127.0.0.1:8000/" now use it
-* If you want to go on admin panel just sign up your account and go to users table in tasky database and change the value 0 to 1 of is_admin column in users table
+* To access the admin panel, sign up for an account, then go to the "users" table in the "tasky" database. Change the value of the "is_admin" column from 0 to 1 for your account.
